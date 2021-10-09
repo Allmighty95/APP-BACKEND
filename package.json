@@ -1,0 +1,25 @@
+{
+  "name": "santi-programa-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allmighty95/Servidor-BACKEND-.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Allmighty95/Servidor-BACKEND-/issues"
+  },
+  "homepage": "https://github.com/Allmighty95/Servidor-BACKEND-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
