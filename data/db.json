@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "message": "Se cree que es la misma persona que Menes. Primer unificador del Alto y el Bajo Egipto.",
+    "author": "Narmer",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/NarmerPalette-CloseUpOfNarmer-ROM.png/1024px-NarmerPalette-CloseUpOfNarmer-ROM.png"
+  },
+  {
+    "id": 2,
+    "message": "Comúnmente se cree que es hijo de Akenatón; probablemente reinstauró la religión politeísta y la deidad principal cambio de Atón a Amón.",
+    "author": "Tutankhamun",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Mask_of_Tutankhamun_2003-12-07.jpg/165px-Mask_of_Tutankhamun_2003-12-07.jpg"
+  },
+  {
+    "id": 3,
+    "message": "El más poderoso de los faraones del Imperio Medio.",
+    "author": "Senusret III",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GD-EG-Louxor-116.JPG/165px-GD-EG-Louxor-116.JPG"
+  },
+  {
+    "id": 4,
+    "message": "Famoso por su tumba intacta.",
+    "author": "Hor I",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/5/54/Ka_Statue_of_horawibra.jpg"
+  }
+  
+]

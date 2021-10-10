@@ -1,0 +1,23 @@
+html,
+body {
+  height: 100%;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+}
+
+body {
+  background: #007bff;
+  background: linear-gradient(to right, #EFB810, #BF930D);
+  background-image: url(https://viajes.nationalgeographic.com.es/medio/2019/04/15/istock-514316008_75bb6de4_1410x743.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-blend-mode: soft-light;
+  background-color: rgb(100,100,100);
+}
